@@ -120,7 +120,7 @@ function Services() {
       emoji: '📅',
       color: '#0891b2',
       description: 'Pusat informasi untuk semua kegiatan, acara, dan pengumuman penting di desa.',
-      link: 'https://acara-desa.up.railway.app/',
+      link: 'https://acara-desa.fly.dev/',
       features: [
         'Kalender acara dan kegiatan desa',
         'Pengumuman penting dari pemerintah desa',

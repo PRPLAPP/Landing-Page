@@ -35,7 +35,7 @@ export const sectionsData = [
     id: 'events',
     title: 'Acara Desa',
     description: 'Ikuti kegiatan dan acara terbaru di desa. Dari gotong royong, perayaan tradisional, hingga pengumuman penting dari pemerintah desa.',
-    link: 'https://acara-desa.up.railway.app/',
+    link: 'https://acara-desa.fly.dev/',
     bgColor: 'white',
     textColor: 'dark'
   }
