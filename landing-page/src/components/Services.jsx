@@ -9,7 +9,7 @@ function Services() {
       title: 'Tentang Desa',
       emoji: '🏘️',
       color: '#1e3a8a',
-      description: 'Platform informasi lengkap tentang profil, sejarah, visi, dan misi Desa Sukamaju.',
+      description: 'platform informasi lengkap tentang profil, sejarah, visi, dan misi Desa Sukamaju.',
       features: [
         'Profil lengkap desa dan pemerintahan',
         'Sejarah dan perkembangan desa',
